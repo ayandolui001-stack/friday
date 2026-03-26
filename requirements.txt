@@ -1,4 +1,6 @@
 fastapi
+edge-tts
+
 uvicorn[standard]
 langchain
 langchain-groq
